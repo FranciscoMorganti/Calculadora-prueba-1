@@ -1140,7 +1140,7 @@
 
 /* Celular landscape */
 
-@media screen and (min-width: 320px) and (max-width: 425px) and (min-height: 580px) and (max-height: 900px) and (orientation: landscape){
+@media screen and (min-width: 580px) and (min-height: 320px) and (max-height: 425px) {
     .contenedor-boton{
         width: 40px;
         height: 40px;
